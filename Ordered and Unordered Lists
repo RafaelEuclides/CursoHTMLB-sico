@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Exercícios HTML - Fundação Bradesco</title>
+</head>
+<body>
+<p align=left>
+	<font face="Verdana" size="5" color="#386087">
+	Principais pontos turísticos:
+	</font>
+</p>
+	<!--Abaixo seria um cabeçalho que eu não utilizei-->
+<!--<p align=left>
+	<font face="Verdana" size="3" color=#000000">
+	Nome:<b> Rafael Euclides.</b><br>
+	Nasc.:<u> 23/09/2996</u><br>
+	</font>
+</p>-->
+<!--Abaixo temos listas ordenadas e dentro delas listas não ordenadas. Eu optei por colocar as ordenações em algarismos romanos-->
+<p align=left >
+<font face="Caibri" size="4">
+<ol type=I>
+	<li><b>Porto Alegre</b>
+	<ul type=circle>
+	<li>Casa de Cultura Mario Quintana
+	<li>Jardim Botânico
+	<li>Parque Maurício Sirotsky
+	<li>Largo Guaíba
+	</ul>
+</ol>
+<ol type=I>
+	<li><b>Manaus</b>
+	<ul>
+	<li>Encontro das águas
+	<li>Palácio Rio Negro
+	<li>Centro Cultural dos Povos da Amazônia
+	</ul>
+</ol>
+</font>
+</p>
+<br>
+	<!--Aqui eu só quis mostrar o fim da página-->
+<hr>
+<p align=left>
+	<font face="Comic Sans MS" size="2">
+	Independente da cidade escolhida, você terá opções maravilhosas para curtir suas férias.
+	</font>
+</p>
+</html>
