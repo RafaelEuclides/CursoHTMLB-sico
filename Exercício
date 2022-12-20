@@ -1,0 +1,83 @@
+<!DOOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>Exercício de Links - Fundação Bradesco</title>
+</head>
+<body>
+<p face"Verdana" size="4">Para saber mais informações sobre o curso de HTML Básico, clique na informação desejada:
+</p>
+<a href="#Categoria">Categoria</a><br>
+<a href="#CargaHoraria">Carga Horária</a><br>
+<a href="#Descricao">Descrição do curso</a><br>
+<a href="#EstruturaDoCurso">Estrutura do Curso</a><br>
+<a href="#PreRequisitos">Pré-Requisitos</a>
+<p align=left>
+<font face="Verdana" size="4" color="$ff0000">
+	HTML - Básico
+</font>
+</p>
+<a name="Categoria">
+<h1>
+<font face="Verdana" size="2" color="#ff0000">
+Categoria do curso
+</font>
+</h1>
+<p>
+<font face="Verdana" size="2">
+Desenvolvimento de aplicativos.
+</font>
+</p>
+<a name="CargaHoraria">
+<h2>
+<font face="Verdana" size="2" color="#ff0000">
+Carga horária
+</font>
+</h2>
+<p>
+<font face="Verdana" size="2">
+11 Horas.
+</font>
+</p>
+<a name="Descricao">
+<h3>
+<font face="Verdana" size="2" color="#ff0000">
+Descrição do Curso
+</font>
+</h3>
+<p>
+<font face="Verdana" size="2">
+Este curso apresenta coneitos básicos de web e mostra partes e funções das <i>tags</i> em um documento HTML. Ensina, também, a formatar uma página, inserir imagens e muito mais! Tudo isso, com explicações simples e fácil de compreensão.
+</font>
+</p>
+<a name="EstruturaDoCurso">
+<h4>
+<font face="Verdana" size="2" color="#ff0000">
+Estrutura do curso
+</font>
+</h4>
+<ol>
+<font face="Verdana" size="2">
+<li> Módulo 1 - Introdução
+<li> Módulo 2 - HTML e <i>web</i>
+<li> Módulo 3 - Criando um documento HTML
+<li> Módulo 4 - Formatando um documento HTML
+<li> Módulo 5 - Criando Listas
+<li> Módulo 6 - Inserindo imagens
+<li> Módulo 7 - Criando <i>Links</i>
+<li> Módulo 8 - Combinando tags
+<li> Módulo 9 - Usando imagens mapeadas
+</font>
+</ol>
+<a name="PreRequisitos">
+<h5>
+<font face="Verdana" size="2" color="#ff0000">
+Pré-requisitos
+</font>
+</h5>
+<p>
+<font face="Verdana" size="2">
+Não há pré-requisitos para a realização deste curso.
+</font>
+</p>
+</body>
+</html>
